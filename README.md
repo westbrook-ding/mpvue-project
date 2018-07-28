@@ -13,3 +13,5 @@ mpvue图书管理全栈小程序
 项目目录：
         src目录为客户端小程序目录  通过npm install  npm run dev 运行
         server目录为为后端node.js开发目录  通过npm install npm run dev 运行 
+        
+项目相关CSDN博客地址:https://blog.csdn.net/qq_40083134/article/details/81237844
