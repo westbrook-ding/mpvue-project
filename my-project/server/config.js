@@ -32,7 +32,7 @@ const CONF = {
         port: 3306,
         user: 'root',              // 根据mysql数据库配置 自行修改 user cAuth pass这三个参数
         db: 'cAuth',
-        pass: 'honor7wsdgld2727',
+        pass: '',
         // pass:"wxba6c444bf16db496",
         char: 'utf8mb4'
     },
